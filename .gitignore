@@ -1,0 +1,5 @@
+node_modules
+.env
+.prod.env
+OpenMusicAPIV2PostmanTest
+OpenMusic API V2 Test.zip
